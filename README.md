@@ -4,7 +4,7 @@ Provides examples of how to spin up Kafka and Zookeeper containers and sample co
 ## Contact
 |||
 |---|---|
-| Developer |  [www.stier-automation.com](www.stier-automation.com) - [stiersl@stier-automation.com](stiersl@stier-automation.com) |
+| Developer |  [www.stier-automation.com](https://www.stier-automation.com) - [stiersl@stier-automation.com](MAILTO:stiersl@stier-automation.com) |
 
 Project Link: [https://github.com/Stier-Automation-LLC/kafka-example.git](https://github.com/Stier-Automation-LLC/sa-kafka-example.git)
 
